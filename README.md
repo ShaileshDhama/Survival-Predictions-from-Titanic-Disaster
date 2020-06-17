@@ -1,4 +1,4 @@
-# Title that recommends an action
+# Titanic Surival Prediction
 ## Predict Survival from disaster in Titanic
 
 **Author**: SHAILESH_DHAMA
