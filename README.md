@@ -59,7 +59,7 @@ To build a predictive model that answers the question: “what sorts of people w
 ![graph10](./TITANIC5.png)
 > Correlation heatmap of dataset.
 
-![graph11](./TITANIC6.png)
+![graph11](./TITANIC6.PNG)
 > Test Accuracy Mean of Machine Learning Algorithms[MLA].
 
 ![graph12](./TITANIC7.png)
