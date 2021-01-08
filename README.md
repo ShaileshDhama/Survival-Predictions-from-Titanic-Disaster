@@ -8,7 +8,7 @@
 To build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data 
 (i.e, name, age, gender, socio-economic class, etc).
 
-### Dataset : https://github.com/ShaileshDhama/Predict-Survival-from-Disaster-in-Titanic/blob/master/titanic_dataset.zip
+### Dataset : ./titanic_dataset.zip
 
 ## STEPS :
 
@@ -89,5 +89,4 @@ For any additional questions, please contact **shaileshshettyd@gmail.com)
 ├── README.md                         <- The top-level README for reviewers of this project.
 ├── titanic-predictions-in-ml.ipynb   <- narrative documentation of analysis in jupyter notebook.
 └── images                            <- both sourced externally and generated from code.
-
 ```
