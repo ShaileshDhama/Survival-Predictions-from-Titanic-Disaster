@@ -1,4 +1,4 @@
-# Titanic Surival Prediction
+# Survival Predictions from Titanic Disaster
 ## Predict Survival from disaster in Titanic
 
 **Author**: SHAILESH_DHAMA
@@ -8,7 +8,7 @@
 To build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data 
 (i.e, name, age, gender, socio-economic class, etc).
 
-### Dataset : .\titanic_dataset.zip
+### Dataset : https://github.com/ShaileshDhama/Survival-Predictions-from-Titanic-Disaster/blob/master/titanic_dataset.zip
 
 ## STEPS :
 
